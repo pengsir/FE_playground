@@ -1,0 +1,11 @@
+{
+  "name": "jest-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/n9m2w9q8x0",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "20.0.4"
+  }
+}
